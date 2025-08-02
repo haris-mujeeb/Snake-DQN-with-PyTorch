@@ -163,7 +163,7 @@ This avoids overwriting previous models.
 
 ## 📢 License
 
-MIT License © 2025 Usama
+MIT License © 2025
 
 ---
 
