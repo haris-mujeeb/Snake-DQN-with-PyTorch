@@ -3,9 +3,7 @@
 
 This project implements a reinforcement learning agent that learns to play the classic Snake game using **Deep Q-Learning (DQN)**. The environment is rendered using **Pygame**, and the agent is trained using **PyTorch**.
 
-<p align="center">
-  <img src="docs/demo.gif" alt="Snake AI Demo" width="600"/>
-</p>
+https://github.com/user-attachments/assets/0e02d945-14a2-4bdc-b5ac-d6971d97fddd
 
 ---
 
