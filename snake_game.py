@@ -1,5 +1,5 @@
 import pygame
-from base_snake_game import BaseSnakeGame
+from snake_game_core import BaseSnakeGame
 
 # Colors
 WHITE, GREEN, RED, BLUE, BLACK = (255, 255, 255), (0, 255, 0), (255, 0, 0), (0, 128, 255), (0, 0, 0)

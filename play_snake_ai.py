@@ -1,6 +1,6 @@
 import torch
 from snake_game import SnakeGame
-from train_model_to_play_snake import SimpleNet, ACTIONS
+from train_snake_ai import SimpleNet, ACTIONS
 import os
 import argparse
 

@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 import random
 import matplotlib.pyplot as plt
-from base_snake_game import BaseSnakeGame
+from snake_game_core import BaseSnakeGame
 import pygame
 from collections import deque
 import numpy as np
