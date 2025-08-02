@@ -88,9 +88,9 @@ def save_model(model, input_size, hidden_size, output_size, grid_width, grid_hei
         model_to_save = model
 
     # Ensure the 'model/' directory exists
-    os.makedirs("model", exist_ok=True)
+    os.makedirs("models", exist_ok=True)
     
-    base_name = f"model/snake_model_{grid_width}x{grid_height}"
+    base_name = f"models/snake_model_{grid_width}x{grid_height}"
     model_name = base_name
     counter = 1
 
